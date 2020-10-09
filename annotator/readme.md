@@ -1,6 +1,6 @@
 List of functions in bot.py
 - start()
-This function invoked when the user sent '/start' message to the bot.  This method is verifys if the user is using the tool for the first time. If so, it displays guideline and an example. 
+This function invoked when the user sent '/start' message to the bot.  This method verifys if it is the user's first time for using the bot. If so, it displays disclaimer and examples. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ይህ ሰርቬይ አግባብ ያልሆኑ ቃላት ወይም ንግግሮች ሊኖሩት ይችላል። ዳታውን ያገኘነው ከትዊተር ገፅ ላይ ነው። ከ18 አመት በታች ከሆኑና ተገቢ ያልሆኑ ንግግሮችን ማየት ካልፈለጉ /end የሚለውን &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ተጭነው ይውጡ። 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ምሳሌ  <br />
