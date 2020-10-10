@@ -13,7 +13,7 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Translation<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This survey may contain inappropriate words or expressions. We got the data from the Twitter page. 
-      If you are under the age of 18 or do not want to view inappropriate conversations please, click /end and exit the bot.<br /> 
+      If you are under the age of 18 or do not want to view inappropriate conversations please, click /end and exit the bot.<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples<br /><br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employee is always late -> አፍራሽ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boy is good but lazy -> ቅልቅል  <br />
