@@ -9,7 +9,7 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ልጁ ጥሩ ነው ግን ሰነፈ ነው -> ቅልቅል  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ጠንካራ ባህል ያለን ህዝብዎች ነን ->ገምቢ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ቀኑ ሐሙስ ነው  -> ገለልተኛ  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ለመቀጠል /start ይጫኑ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ለመቀጠል /start ይጫኑ<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*English Translation*
   
 
