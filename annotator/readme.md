@@ -11,5 +11,8 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ቀኑ ሐሙስ ነው  -> ገለልተኛ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ለመቀጠል /start ይጫኑ<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Translation
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This survey may contain inappropriate words or expressions. We got the data from the Twitter page. Of 18
+      If you are under the age of 18 or do not want to view inappropriate conversations please, click /end and exit the bot.
   
 
