@@ -9,10 +9,17 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ልጁ ጥሩ ነው ግን ሰነፈ ነው -> ቅልቅል  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ጠንካራ ባህል ያለን ህዝብዎች ነን ->ገምቢ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ቀኑ ሐሙስ ነው  -> ገለልተኛ  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ለመቀጠል /start ይጫኑ<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Translation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ለመቀጠል /start ይጫኑ<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Translation<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This survey may contain inappropriate words or expressions. We got the data from the Twitter page. Of 18
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This survey may contain inappropriate words or expressions. We got the data from the Twitter page. 
       If you are under the age of 18 or do not want to view inappropriate conversations please, click /end and exit the bot.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employee is always late -> አፍራሽ  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boy is good but lazy -> ቅልቅል  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are a people with a strong culture ->ገምቢ  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today is thursday  -> ገለልተኛ  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To continue please click /start <br /><br />
+      
   
 
