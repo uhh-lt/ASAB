@@ -4,7 +4,7 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ይህ ሰርቬይ አግባብ ያልሆኑ ቃላት ወይም ንግግሮች ሊኖሩት ይችላል። ዳታውን ያገኘነው ከትዊተር ገፅ ላይ ነው። ከ18 <br />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; አመት በታች ከሆኑና ተገቢ ያልሆኑ ንግግሮችን ማየት ካልፈለጉ /end  የሚለውን ተጭነው ይውጡ።<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ምሳሌ<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ምሳሌ<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ሰራተኛው አርፋጅ ነው -> አፍራሽ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ልጁ ጥሩ ነው ግን ሰነፈ ነው -> ቅልቅል  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ጠንካራ ባህል ያለን ህዝብዎች ነን ->ገምቢ  <br />
@@ -14,7 +14,7 @@ This function invoked when the user sent '/start' message to the bot.  This meth
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This survey may contain inappropriate words or expressions. We got the data from the Twitter page. 
       If you are under the age of 18 or do not want to view inappropriate conversations please, click /end and exit the bot.<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples<br /><br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employee is always late -> አፍራሽ  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The boy is good but lazy -> ቅልቅል  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are a people with a strong culture ->ገምቢ  <br />
