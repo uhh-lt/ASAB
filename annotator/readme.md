@@ -1,6 +1,6 @@
 ```
 #### ASAB: is the first of its kind to conduct surveys based on a specific reward scheme, which is mobile card vouchers.
-```
+
 File Organization
 
 #### 10birr.txt
@@ -69,7 +69,6 @@ PASSWORD = Insert here the password for your eamil.
 │   ├── rewarded_cards.csv
 │   ├── readme.md
 
- ```
 
 
  Dillinger
