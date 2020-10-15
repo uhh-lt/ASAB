@@ -48,40 +48,22 @@ TOKEN = Insert here the token of your bot
 EMAIL =  Insert here the email address that will used for receiving emails from the bot and the users
 PASSWORD = Insert here the password for your eamil.
 
-control_answers.csv
-Consists the answer a user gave to the control questions.  It has three columns
+File structure
+```bash
+├── 10birr.txt
+├── 5birr.txt
+├── annotated_tweets.txt
+├── blocked_user.txt
+├── bot.properties
+├── bot.py
+├── control_answers.csv
+├── control_questions.csv
+├── raw_tweets.csv
+├── requirements.txt
+├── rewarded_cards.csv
+├── readme.md
 
-tweet =  The text content of the tweet.
-answer = The answer of the user for that specific tweet.
-username = The useranme of the respective user.
-
-| tweet                  | answer | username |
-|------------------------|--------|----------|
-| ይህንን ይህንን መኪና እወዳለሁ ፡፡ | Pos    | username |
-
-
-control_questions.csv
-It is a csv file that stores the simple questions for verification of a user. Consists two columns one for the tweet and the other for the sentiment of the respective tweet.
-
-| tweet                  | class |
-|------------------------|-------|
-| ይህንን ይህንን መኪና እወዳለሁ ፡፡ | Pos   |
-
-raw_tweets.csv
-Contains all the tweets to be annotated. It has two columns one for the list of tweets and the other one for their respective ID. 
-
-| tweet_id     | tweet      |
-|--------------|------------|
-| 4564644..... | some tweet |
-
-rewarded_cards.txt
-It is a file that stores all the mobile voutcher numbers that are awarded to the winners. 
-
-requirement.txt
-Contains all the libraries that are required to run bot.py. 
-
-
-
+```
  Dillinger
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
