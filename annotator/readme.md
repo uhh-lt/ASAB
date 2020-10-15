@@ -1,4 +1,6 @@
-```
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 #### ASAB: is the first of its kind to conduct surveys based on a specific reward scheme, which is mobile card vouchers.
 
 File Organization
@@ -69,8 +71,7 @@ PASSWORD = Insert here the password for your eamil.
 │   ├── rewarded_cards.csv
 │   ├── readme.md
 
- 
-
+ ```
 
 
  Dillinger
