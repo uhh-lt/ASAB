@@ -1,4 +1,3 @@
-```
 #### ASAB: is the first of its kind to conduct surveys based on a specific reward scheme, which is mobile card vouchers.
 
 File Organization
@@ -52,7 +51,7 @@ TOKEN = Insert here the token of your bot
 EMAIL =  Insert here the email address that will used for receiving emails from the bot and the users
 PASSWORD = Insert here the password for your eamil.
 
-#### File structure
+#### Directory Structure
 
 ├── annotator
 │   ├── css
