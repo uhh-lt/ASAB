@@ -47,11 +47,48 @@ Is a text file that stores list of blocked users.
 
 This file consists of the token of the bot,the email address of the admin for receiving emails from the bot and users,  password of the email address. All the defualt data for all the three requirements should be replace with the right information before running the bot.py. 
 
-TOKEN = Insert here the token of your bot
-EMAIL =  Insert here the email address that will used for receiving emails from the bot and the users
-PASSWORD = Insert here the password for your eamil.
+- TOKEN = Insert here the token of your bot
+- EMAIL =  Insert here the email address that will used for receiving emails from the bot and the users
+- PASSWORD = Insert here the password for your eamil.
+
+#### control_answers.csv
+
+Consists the answer a user gave to the control questions.  It has three columns
+
+- tweet =  The text content of the tweet.
+- answer = The answer of the user for that specific tweet.
+- username = The useranme of the respective user.
+
+| tweet                  | answer | username |
+|------------------------|--------|----------|
+| ይህንን ይህንን መኪና እወዳለሁ ፡፡ | Pos    | username |
+
+
+#### control_questions.csv
+
+It is a csv file that stores the simple questions for verification of a user. Consists two columns one for the tweet and the other for the sentiment of the respective tweet.
+
+| tweet                  | class |
+|------------------------|-------|
+| ይህንን ይህንን መኪና እወዳለሁ ፡፡ | Pos   |
+
+#### raw_tweets.csv
+
+Contains all the tweets to be annotated. It has two columns one for the list of tweets and the other one for their respective ID. 
+
+| tweet_id     | tweet      |
+|--------------|------------|
+| 4564644..... | some tweet |
+
+#### rewarded_cards.txt
+
+It is a file that stores all the mobile voutcher numbers that are awarded to the winners. 
+
+requirement.txt
+Contains all the libraries that are required to run bot.py. 
 
 #### Directory Structure
+
 ```
 ├── annotator
 │   ├── css
