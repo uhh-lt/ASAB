@@ -52,7 +52,7 @@ EMAIL =  Insert here the email address that will used for receiving emails from 
 PASSWORD = Insert here the password for your eamil.
 
 #### Directory Structure
-
+```
 ├── annotator
 │   ├── css
 │   ├── 10birr.txt
@@ -67,7 +67,7 @@ PASSWORD = Insert here the password for your eamil.
 │   ├── requirements.txt
 │   ├── rewarded_cards.csv
 │   ├── readme.md
-
+```
 
 
  Dillinger
