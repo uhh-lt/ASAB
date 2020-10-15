@@ -2,7 +2,7 @@ ASAB: is the first of its kind to conduct surveys based on a specific reward sch
 
 File Organization
 
-10birr.txt
+#### 10birr.txt
 
 Is a text file that contain a list of ten birr mobile card voucher numbers. 
 
@@ -12,7 +12,7 @@ Is a text file that contain a list of ten birr mobile card voucher numbers.
 | 246794123116... |
 
 
-5irr.txt
+#### 5irr.txt
 
 Is a text file that contain a list of ten birr mobile card voucher numbers. 
 
@@ -21,7 +21,8 @@ Is a text file that contain a list of ten birr mobile card voucher numbers.
 | 781641319456715... |
 | 246794123118906... |
 
-annotated_tweets.csv
+#### annotated_tweets.csv
+
 Is a csv file that used for stoting the annotated data.  It is consists of four columns namely:
 tweet_id - The id of the tweet
 sentiment - The sentiment classification of the tweet
@@ -34,34 +35,41 @@ username - The telegram username of the user
 |          |           |       |          |
 
 
-blocked_user.txt
+#### blocked_user.txt
+
 Is a text file that stores list of blocked users. 
 
 |                  |
 |------------------|
 | blocked username |
 
-bot.properties
+#### bot.properties
+
 This file consists of the token of the bot,the email address of the admin for receiving emails from the bot and users,  password of the email address. All the defualt data for all the three requirements should be replace with the right information before running the bot.py. 
 
 TOKEN = Insert here the token of your bot
 EMAIL =  Insert here the email address that will used for receiving emails from the bot and the users
 PASSWORD = Insert here the password for your eamil.
 
-File structure
-```bash
-├── 10birr.txt
-├── 5birr.txt
-├── annotated_tweets.txt
-├── blocked_user.txt
-├── bot.properties
-├── bot.py
-├── control_answers.csv
-├── control_questions.csv
-├── raw_tweets.csv
-├── requirements.txt
-├── rewarded_cards.csv
-├── readme.md
+#### File structure
+
+├── annotator
+│   ├── css
+│   ├── 10birr.txt
+│   ├── 5birr.txt
+│   ├── annotated_tweets.txt
+│   ├── blocked_user.txt
+│   ├── bot.properties
+│   ├── bot.py
+│   ├── control_answers.csv
+│   ├── control_questions.csv
+│   ├── raw_tweets.csv
+│   ├── requirements.txt
+│   ├── rewarded_cards.csv
+│   ├── readme.md
+
+ 
+
 
 ```
  Dillinger
