@@ -24,10 +24,10 @@ Is a text file that contain a list of ten birr mobile card voucher numbers.
 #### annotated_tweets.csv
 
 Is a csv file that used for stoting the annotated data.  It is consists of four columns namely:
-tweet_id - The id of the tweet
-sentiment - The sentiment classification of the tweet
-tweet - The text content of the tweet
-username - The telegram username of the user
+- tweet_id - The id of the tweet
+- sentiment - The sentiment classification of the tweet
+- tweet - The text content of the tweet
+- username - The telegram username of the user
 
 
 | tweet_id | sentiment | tweet | username |
