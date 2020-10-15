@@ -106,6 +106,15 @@ Contains all the libraries that are required to run bot.py.
 │   ├── readme.md
 ```
 
+#### Installation
+1. Download the repsotory 
+2. Replace all the files with your data
+
+3. Install all the libraries using requirements.txt using 
+```bash
+pip install requirements.txt
+```
+4. Run the bot.py 
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
