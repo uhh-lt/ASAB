@@ -71,7 +71,7 @@ PASSWORD = Insert here the password for your eamil.
 │   ├── rewarded_cards.csv
 │   ├── readme.md
 
- ```
+ 
 
 
  Dillinger
