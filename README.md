@@ -17,7 +17,11 @@ We have collected **9.4k tweets**, where each tweet is annotated by **three** **
 
 # Components
 ## Annotator
-Details about the ASAB annotator tools is available in the [ASAB annotator](annotator/readme.md)
+Details about the ASAB annotator tools are available in the [ASAB annotator](annotator/readme.md)
+
+The annotation instruction and examples are available [here](https://annotation-wq.github.io/)
+
+If you want to test ASAB (without rewards, obviously), you can access  it from [telegram](https://t.me/Hizevbot)
 ## Model
 # How to use it
 
