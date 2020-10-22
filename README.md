@@ -16,6 +16,7 @@ We have collected **9.4k tweets**, where each tweet is annotated by **three** **
 
 # Components
 ## Annotator
+Details about the ASAB annotator tools is available in the [ASAB annotator](annotator/readme.md)
 ## Model
 # How to use it
 
