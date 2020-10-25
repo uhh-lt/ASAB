@@ -37,7 +37,7 @@ If you use these resources and methods, please cite the following paper:
 
 ```
 @InProceedings{yimametalcoling2020,
-  author    = {Seid Muhie Yimam and Hizkiel Mitiku Alemayehu and Abinew Ayele and Chris Biemann },
+  author    = {Seid Muhie Yimam and Hizkiel Mitiku Alemayehu and Abinew Ali Ayele and Chris Biemann },
   title     = {Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models},
   booktitle = {The 28th International Conference on Computational Linguistics (COLING 2020) },
   year      = {2020},
