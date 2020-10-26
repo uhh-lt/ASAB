@@ -2,7 +2,7 @@ As we have discussed in Section \ref{datacllection} and Section \ref{sentimentap
 
 After error analysis, we found out that tweets annotated with the **'Mixed'** are noises, which can be regarded as **'Positive'**, '**Negative'**, and **'Neutral'**. Hence, we further cleanse the dataset and exclude tweets labeled as **'Mixed'**, which leads to a final dataset of size 8.6k tweets.  We follow the same split and report the results accordingly (see column 'Cleaned' in Table \ref{expresults}).
 
-####File structure
+#### File structure
 
 #####train.csv
 Contains the training set. The first column (twee_it) shows the id of the tweet and the second column contians the label of that specific tweet. 
