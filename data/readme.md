@@ -17,4 +17,4 @@ ow to access tweet using their id from the dataset
 
 https://twitter.com/evan_greer/status/#tweet_id
 
-Replace '#tweet_id' with the id of the tweet you want to see the content. 
+Replace '#tweet_id' with any id from the dataset. 
