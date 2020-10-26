@@ -31,6 +31,7 @@ A one minute vedio in [Youtube](https://youtu.be/RwVnNA-YTmc) shows you how to i
 The ML classification models are described under [model](model/) directory
 
 ## Data
+The annotated data (Tweet_ID and label) are found under [data](https://github.com/uhh-lt/ASAB/tree/main/data)
 
 ### Citation
 
