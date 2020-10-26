@@ -4,16 +4,19 @@ After error analysis, we found out that tweets annotated with the **'Mixed'** ar
 
 #### File structure
 
-#####train.csv
+##### train.csv
+
 Contains the training set. The first column (twee_it) shows the id of the tweet and the second column contians the label of that specific tweet. 
 
-#####test.csv
+##### test.csv
+
 Contains the test set. The first column (twee_it) shows the id of the tweet and the second column contians the label of that specific tweet. 
 
-#####dev.csv
+##### dev.csv
+
 Contains the development set. The first column (twee_it) shows the id of the tweet and the second column contians the label of that specific tweet. 
 
-####Accessing tweet using their id from the dataset
+#### Accessing tweet using their id from the dataset
 
 https://twitter.com/evan_greer/status/#tweet_id
 
