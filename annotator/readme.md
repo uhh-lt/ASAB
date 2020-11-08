@@ -109,10 +109,10 @@ Contains all the libraries that are required to run bot.py.
 ```
 
 #### Installation
-1. Download the repsotory 
+1. Clone this repository from Github 
 2. Replace all the files with your data
 
-3. Install all the libraries using requirements.txt using 
+3. Install required libraries using requirements.txt using 
 ```bash
 pip install requirements.txt
 ```
