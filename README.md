@@ -27,6 +27,9 @@ If you want to test ASAB (without rewards, obviously), you can access  it from t
 
 A one minute vedio in [Youtube](https://youtu.be/RwVnNA-YTmc) shows you how to interqct with ASAB.
 
+<iframe width="966" height="550" src="https://www.youtube.com/embed/RwVnNA-YTmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Model
 The ML classification models are described under [model](model/) directory
 
