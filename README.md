@@ -33,6 +33,8 @@ The ML classification models are described under [model](model/) directory
 ## Data
 The annotated data (Tweet_ID and label) are found under [data](https://github.com/uhh-lt/ASAB/tree/main/data)
 
+### Paper and Poster
+You can get the paper [here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2020-yimametal-coling-asab.pdf) and the poster [here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2020-yimametal-coling-asab-poster.pdf)
 ### Citation
 
 If you use these resources and methods, please cite the following paper:
